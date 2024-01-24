@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33110ee9-4e84-449a-b398-e61ef6d59afd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/Lesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/Lesson3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "V:/JavaProjects/IntroToProgramming",
+    "last_opened_file_path": "V:/JavaProjects/IntroToProgramming/src/main/java/ru/fafurin",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -44,6 +43,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\IntroToProgramming\src\main\java\ru\fafurin" />
       <recent name="V:\JavaProjects\IntroToProgramming" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
