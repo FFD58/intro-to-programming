@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33110ee9-4e84-449a-b398-e61ef6d59afd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/Lesson2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Новы-Сонч .html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Пятиствольный каштан .html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Радиоэлектронная разведка Франции .html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random.html" beforeDir="false" afterPath="$PROJECT_DIR$/random.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/Lesson2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "V:/JavaProjects/IntroToProgramming",
+    "last_opened_file_path": "V:/JavaProjects/Synergy",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"

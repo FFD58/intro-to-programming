@@ -104,7 +104,7 @@ public class Lesson2 {
         writeToFile(downloadWebPage(randomWikiArticle), "random.html");
 
         // 20. Сложная. Напишите программу, которая сохраняет в разные файлы 50 случайных статей из Википедии
-        writeToFileRandomWikiArticles(3);
+        writeToFileRandomWikiArticles(50);
 
     }
 
@@ -155,6 +155,7 @@ public class Lesson2 {
             int end = str.indexOf("— Википедия</title>");
             String title = str.substring(begin + 7, end).replace(",","");
             writeToFile(str, dir + "\\" + title + ".html");
+            System.out.printf("Article %s downloaded", title);
             count--;
         }
     }
